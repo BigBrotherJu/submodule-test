@@ -1,0 +1,3 @@
+[submodule "xv6-d1"]
+	path = xv6-d1
+	url = https://github.com/michaelengel/xv6-d1
